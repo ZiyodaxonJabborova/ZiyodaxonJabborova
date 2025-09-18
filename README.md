@@ -1,54 +1,58 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=💖%20Assalomu%20Alaykum!%20Welcome%20to%20My%20GitHub%20💖&desc=Ziyodaxon%20👩‍💻%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=ff9a9e,fad0c4,fad0c4,ff9a9e&stroke=ffffff&strokeWidth=3" />
+
+<!-- Ultra Premium Unique Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20Welcome%20to%20My%20GitHub!%20⚡&desc=Ziyodaxon%20🚀%20Python%20&%20Web%20Developer&descAlignY=70&fontColor=ffffff&fontSize=36&fontAlignY=40&animation=fadeIn&fontAlign=55&color=gradient&gradient=32CD32,ADFF2F,7CFC00,98FB98&stroke=ffffff&strokeWidth=2&shadow=true&shadowColor=000000" />
+
+<!-- Typing Animation for Interests -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=32CD32&center=true&vCenter=true&width=750&lines=⚡+Python+%7C+VS+Code+%7C+Clean+Code+⚡;🚀+Coding+%7C+Flask+%7C+Django+🚀;💎+Web+Development+%7C+MySQL+💎;🔥+Reading+Books+%7C+Always+Learning+🔥" alt="Typing Animation" />
+
+<!-- Status Badges -->
+<div style="margin: 30px 0;">
+<img src="https://img.shields.io/badge/🏠_Location_Andijan_🇺🇿-32CD32?style=for-the-badge&logo=home&logoColor=white&labelColor=ADFF2F" />
+<img src="https://img.shields.io/badge/💻_Python_Developer_🐍-7CFC00?style=for-the-badge&logo=python&logoColor=white&labelColor=32CD32" />
+<img src="https://img.shields.io/badge/🎯_Backend_Expert_⚡-98FB98?style=for-the-badge&logo=server&logoColor=white&labelColor=32CD32" />
+<img src="https://img.shields.io/badge/🌱_Tech_Explorer_🚀-ADFF2F?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=32CD32" />
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=ff9a9e&center=true&vCenter=true&width=750&lines=💻+Python+Developer+👩‍💻;📚+Loves+Reading+Books+📖;🎨+Creative+Mind+🎨;🌱+Always+Learning+New+Things+🌱" alt="Typing Animation" />
+<!-- Visitors Counter -->
+<img src="https://komarev.com/ghpvc/?username=ziyodaxon1309&style=for-the-badge&color=32CD32&label=👀+VISITORS&labelColor=ADFF2F" />
+
 </div>
 
-<!-- Badges -->
+<!-- Divider -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location:_Tashkent,_Uzbekistan_🇺🇿-ff9a9e?style=for-the-badge&logo=location-pin&logoColor=white&labelColor=ff9a9e" />
-  <img src="https://img.shields.io/badge/💻_Python_Developer_🐍-ff9a9e?style=for-the-badge&logo=python&logoColor=white&labelColor=ff9a9e" />
-  <img src="https://img.shields.io/badge/📚_Loves_Reading_📖-ff9a9e?style=for-the-badge&logo=book&logoColor=white&labelColor=ff9a9e" />
-  <img src="https://img.shields.io/badge/🎨_Creative_Mind_🎨-ff9a9e?style=for-the-badge&logo=palette&logoColor=white&labelColor=ff9a9e" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ziyodaxon1309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9a9e&text_color=ffffff&icon_color=ff9a9e&border_radius=15"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodaxon1309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff9a9e&text_color=ffffff&border_radius=15"/>
-</div>
+## 👩‍💻 About Me
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyodaxon1309&theme=tokyonight&hide_border=true&background=0D1117&stroke=ff9a9e&ring=ff9a9e&fire=ff9a9e&currStreakLabel=ff9a9e&sideLabels=ffffff&currStreakNum=ff9a9e&border_radius=15" />
-</div>
+<table align="center">
+<tr>
+<td align="center" width="45%">
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyodaxon1309&theme=react-dark&bg_color=0D1117&color=ff9a9e&line=ff9a9e&point=ff9a9e&area=true&hide_border=true" width="95%"/>
-</div>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Cool Girl Developer Animation" style="border-radius: 20px; box-shadow: 0 0 25px rgba(50,205,50,0.4);" />
 
-<!-- Contact Links -->
-<div align="center">
-  <a href="https://t.me/@ziyodaxon1309">
-    <img src="https://img.shields.io/badge/💬_Telegram-ff9a9e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=ff9a9e" />
-  </a>
-  <a href="mailto:ziyodaxon1309@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-ff9a9e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff9a9e" />
-  </a>
-  <a href="https://github.com/ziyodaxon1309">
-    <img src="https://img.shields.io/badge/🐙_GitHub-ff9a9e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff9a9e" />
-  </a>
-</div>
+**🔥 Fun Facts:**
+- 🎮 Love building creative projects  
+- ☕ Fueled by coffee & curiosity  
+- 🚀 Always exploring new tech  
+- 💎 Clean code enthusiast  
+- 📚 Reading books for growth  
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=ff9a9e,fad0c4,fad0c4,ff9a9e&height=120&section=footer&animation=fadeIn" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=ff9a9e&center=true&vCenter=true&width=400&lines=💖+Thanks+for+checking+out+my+profile!+💖;👩‍💻+Let's+build+the+future+together!+👩‍💻;📚+Always+learning,+always+growing!+📚" />
-  <br>
-  <sub>💖 Built with 💻, ☕ and lots of 💖 by <strong>Ziyodaxon</strong> | 2025 💖</sub>
-</div>
+</td>
+<td align="center" width="55%">
+
+```python
+class UniqueDeveloper:
+    def __init__(self):
+        self.name = "Ziyodaxon 🚀"
+        self.role = "Python & Web Dev 💻"
+        self.location = "Andijan, UZ 🏠"
+        self.vibe = "Always Coding 😎"
+        self.skills = ["Python 🐍", "Flask 🌿", "Django 🎯", "MySQL 🐘", "HTML/CSS 🎨"]
+    
+    def daily_routine(self):
+        return "☕ Coffee → 💻 Code → 🚀 Deploy → 📚 Read → 🔄 Repeat"
+
+me = UniqueDeveloper()
+print(f"Current mode: {me.daily_routine()}")
