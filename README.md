@@ -1,67 +1,50 @@
-<!-- ====== BANNER ====== -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:50C878,100:2E8B57&height=250&section=header&text=Assalamu%20alaykum!%20Welcome%20to%20my%20GitHub👋&fontSize=35&fontColor=ffffff&fontAlign=50&animation=fadeIn)
+<div align="center">
+
+<!-- Premium Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=🌿%20Assalomu%20Alaykum!%20🌿&desc=Ziyoda%20🚀%20Python%20Enthusiast&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=50C878,2E8B57,3CB371,20B2AA&stroke=ffffff&strokeWidth=3" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=20B2AA&center=true&vCenter=true&width=750&lines=🐍+Python+Lover+%7C+Always+Coding+💻;📚+Books,+Learning,+and+Growth+🌱;🚀+Flask+%7C+Django+%7C+MySQL+Developer+🚀;✨+Coding+Dreams,+Building+Reality+✨" alt="Typing Animation" />
+
+<!-- Status Badges -->
+<div style="margin: 30px 0;">
+<img src="https://img.shields.io/badge/💻_Python_Developer-2E8B57?style=for-the-badge&logo=python&logoColor=white&labelColor=50C878" />
+<img src="https://img.shields.io/badge/📚_Reader_&_Learner-20B2AA?style=for-the-badge&logo=book&logoColor=white&labelColor=2E8B57" />
+<img src="https://img.shields.io/badge/🌱_Always_Growing-3CB371?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=2E8B57" />
+</div>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ziyodaxon1309-cpu&style=for-the-badge&color=2E8B57&label=👀+Profile+Views&labelColor=50C878" />
+
+</div>
 
 ---
 
-# 💫 About Me:
-👩‍💻 Python enthusiast & learner  
-📚 I enjoy **coding, reading books, and exploring new ideas**  
-🛠️ I love building with **VS Code, Python, MySQL, HTML, Flask, Django**  
-✨ Always striving to improve & learn more every day  
+## 🌸 About Me  
 
----
+<table align="center">
+<tr>
+<td align="center" width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Girl Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(46, 139, 87, 0.4);" />
 
-# 🚀 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**✨ Fun Facts:**
+- 🌱 Love exploring Python & web dev  
+- 📚 Enjoy reading and learning daily  
+- 🚀 Excited about Flask & Django  
+- 💻 VS Code is my comfort zone  
+</td>
+<td align="center" width="55%">
 
----
+```python
+class DeveloperZiyoda:
+    def __init__(self):
+        self.name = "Ziyoda 🌿"
+        self.role = "Python Enthusiast 🐍"
+        self.focus = ["Flask", "Django", "MySQL"]
+        self.hobbies = ["Reading 📚", "Coding 💻", "Learning 🌱"]
+    
+    def daily_routine(self):
+        return "☕ Tea → 💻 Code → 📚 Read → 🌙 Repeat"
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ziyodaxon1309-cpu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ziyodaxon1309-cpu&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodaxon1309-cpu&theme=radical&hide_border=false&layout=compact)
-
----
-
-# 🌐 Connect with Me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ziyodaxon1309)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziyodaxon1309@gmail.com)
-
----
-
-# 🎯 Goals (2025):
-- 🚀 Improve my skills in **Python & Django**  
-- 📚 Contribute to open-source projects  
-- 🌟 Build impactful real-world applications  
-- 🏆 Gain certifications and achieve milestones  
-
----
-
-# 📚 Currently Learning:
-- Advanced **Python**  
-- **Flask & Django** frameworks  
-- Database management with **MySQL**  
-
----
-
-# 🏆 Achievements:
-- ✅ Completed **C Programming**  
-- ✅ Started **Python journey** at Najot Ta’lim  
-- 📖 Consistently learning and growing  
-
----
-
-# ✨ Fun Facts:
-- 🌙 I enjoy coding at night when everything is quiet  
-- ☕ Tea makes me more productive than coffee  
-- 📖 I find peace in reading and learning new things  
-
----
-
-<!-- ====== FOOTER BANNER ====== -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:50C878&height=150&section=footer)
+me = DeveloperZiyoda()
+print(me.daily_routine())
