@@ -73,7 +73,7 @@ print(f"Current focus: {me.daily_routine()}")
 <!-- Tech Arsenal Section -->
 <div align="center" style="background: linear-gradient(135deg, #B35A47, #FF7F50); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python_🐍-B35A47?style=for-the-badge&logo=python&logoColor=white&labelColor=FF7F50)
 ![FastAPI](https://img.shields.io/badge/FastAPI_⚡-B35A47?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=FF7F50)
