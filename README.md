@@ -13,9 +13,7 @@
 <img src="https://img.shields.io/badge/🌱_Tech_Innovator_🚀-B35A47?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=B35A47" />
 
 <!-- Visitors Counter -->
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZiyodaxonJabborova&style=for-the-badge&color=B35A47&label=👀+VISITORS&labelColor=B35A47" />
-</div>
 
 </div>
 
@@ -40,7 +38,7 @@
 </td>
 <td align="center" width="55%">
 
-```python
+<pre>
 class Ziyodaxon:
     def __init__(self):
         self.name = "Ziyodaxon Jabborova 💎"
@@ -60,3 +58,59 @@ class Ziyodaxon:
 
 me = Ziyodaxon()
 print(f"Current focus: {me.daily_routine()}")
+</pre>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZiyodaxonJabborova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&icon_color=B35A47&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyodaxonJabborova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B35A47&text_color=ffffff&border_radius=15"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyodaxonJabborova&theme=tokyonight&hide_border=true&background=0D1117&stroke=B35A47&ring=B35A47&fire=B35A47&currStreakLabel=B35A47&sideLabels=ffffff&currStreakNum=B35A47&border_radius=15" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyodaxonJabborova&theme=react-dark&bg_color=0D1117&color=B35A47&line=B35A47&point=B35A47&area=true&hide_border=true" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+## 🎯 2025 Mission Goals
+
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #B35A47); padding: 25px; border-radius: 20px; margin: 20px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1500&color=B35A47&center=true&vCenter=true&width=600&lines=⚡+Mastering+FastAPI+Like+a+Boss+⚡;🚀+Building+Next-Gen+Applications+🚀;☁️+Conquering+Cloud+Technologies+☁️;🔥+Leveling+Up+Every+Single+Day+🔥!" />
+
+<pre>
+# My 2025 Coding Mission 🎯⚡
+mission = {
+    "⚡ Q1": {
+        "targets": ["FastAPI Mastery 🚀", "React Domination ⚛️", "Docker Skills 🐳"],
+        "status": "🔥 Currently Grinding"
+    },
+    "🚀 Q2": {
+        "targets": ["AWS Cloud ☁️", "Testing Pro 🧪", "GraphQL Power 💪"],
+        "status": "📋 Mission Planned"
+    },
+    "💎 Q3": {
+        "targets": ["System Design 🏗️", "DevOps Master 🛠️", "Open Source Hero 🌟"],
+        "status": "🎯 Future Objectives"
+    }
+}
+
+print("⚡ Every bug is just another boss to defeat! ⚡")
+</pre>
+
+</div>
