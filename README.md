@@ -141,3 +141,29 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 <div align="center">
 
+<!-- Rainbow Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- Connect / Contact Section -->
+<div align="center" style="background: linear-gradient(135deg, #B35A47, #FF7F50); padding: 30px; border-radius: 20px; margin: 20px;">
+
+### 🤝 Let's Connect
+
+<a href="https://t.me/Ziyodaxon">
+<img src="https://img.shields.io/badge/💬_Telegram-B35A47?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FF7F50" />
+</a>
+<a href="mailto:ziyodaxon@example.com">
+<img src="https://img.shields.io/badge/📧_Email-B35A47?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7F50" />
+</a>
+<a href="https://github.com/ZiyodaxonJabborova">
+<img src="https://img.shields.io/badge/🐙_GitHub-B35A47?style=for-the-badge&logo=github&logoColor=white&labelColor=FF7F50" />
+</a>
+<a href="https://www.buymeacoffee.com/ziyodaxon">
+<img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FF7F50" height="40" />
+</a>
+
+</div>
+
+
