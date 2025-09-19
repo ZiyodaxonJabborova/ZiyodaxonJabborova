@@ -87,6 +87,9 @@ print(f"Current focus: {me.daily_routine()}")
 ![VS Code](https://img.shields.io/badge/VS_Code_💜-B35A47?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=FF7F50)
 
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 
 ## 📊 GitHub Stats
