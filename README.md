@@ -5,7 +5,7 @@
 <table align="center">
 <tr>
 <td align="center" width="45%">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Cool Developer" style="border-radius: 15px; box-shadow: 0 0 20px rgba(216, 164, 143, 0.3);" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Developer" style="border-radius: 15px; box-shadow: 0 0 20px rgba(216, 164, 143, 0.3);" />
 
 **✨ Quick Facts About Me:**
 - 🎮 Passionate about building exciting projects
@@ -37,3 +37,4 @@ class Ziyodaxon:
 
 me = Ziyodaxon()
 print(f"Current focus: {me.daily_routine()}")
+
