@@ -68,6 +68,27 @@ print(f"Current focus: {me.daily_routine()}")
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
+
+
+<!-- Tech Arsenal Section -->
+<div align="center" style="background: linear-gradient(135deg, #B35A47, #FF7F50); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+### 🛠️ My Tech Stack
+
+![Python](https://img.shields.io/badge/Python_🐍-B35A47?style=for-the-badge&logo=python&logoColor=white&labelColor=FF7F50)
+![FastAPI](https://img.shields.io/badge/FastAPI_⚡-B35A47?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=FF7F50)
+![JavaScript](https://img.shields.io/badge/JavaScript_💛-B35A47?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF7F50)
+![React](https://img.shields.io/badge/React_⚛️-B35A47?style=for-the-badge&logo=react&logoColor=white&labelColor=FF7F50)
+![Django](https://img.shields.io/badge/Django_🎯-B35A47?style=for-the-badge&logo=django&logoColor=white&labelColor=FF7F50)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_🐘-B35A47?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FF7F50)
+![MongoDB](https://img.shields.io/badge/MongoDB_🍃-B35A47?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF7F50)
+![Docker](https://img.shields.io/badge/Docker_🐳-B35A47?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF7F50)
+![Git](https://img.shields.io/badge/Git_🌿-B35A47?style=for-the-badge&logo=git&logoColor=white&labelColor=FF7F50)
+![VS Code](https://img.shields.io/badge/VS_Code_💜-B35A47?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=FF7F50)
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
