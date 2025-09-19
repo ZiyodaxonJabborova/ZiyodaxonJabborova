@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fixed Color Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=🔥Assalamu%20Alaykum!🔥&desc=Ziyodaxon%20Jabborova%20💎%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=B35A47,B35A47&stroke=ffffff&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=🔥Assalamu%20Alaykum!🔥&desc=Ziyodaxon%20Jabborova%20💎%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=B35A47&stroke=ffffff&strokeWidth=3" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=B35A47&center=true&vCenter=true&width=750&lines=💎+Crafting+Cutting-Edge+Digital+Experiences+💎;💻+Python+%7C+FastAPI+%7C+Clean+Code+💻;🔥+Building+High-Impact+Web+Solutions+🔥;🌟+Designing+Innovative+Digital+Products+🌟" alt="Typing Animation" />
@@ -68,8 +68,6 @@ print(f"Current focus: {me.daily_routine()}")
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-
-
 <!-- Tech Arsenal Section -->
 <div align="center" style="background: linear-gradient(135deg, #B35A47, #FF7F50); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
@@ -87,10 +85,10 @@ print(f"Current focus: {me.daily_routine()}")
 ![VS Code](https://img.shields.io/badge/VS_Code_💜-B35A47?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=FF7F50)
 
 </div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
-
 
 ## 📊 GitHub Stats
 
@@ -139,14 +137,7 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 </div>
 
-<div align="center">
-
-<!-- Rainbow Divider -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<!-- Connect / Contact Section -->
+<!-- Connect Section -->
 <div align="center" style="background: linear-gradient(135deg, #B35A47, #FF7F50); padding: 30px; border-radius: 20px; margin: 20px;">
 
 ### 🤝 Let's Connect
@@ -166,4 +157,13 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 </div>
 
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B35A47&height=120&section=footer&animation=fadeIn" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=B35A47&center=true&vCenter=true&width=400&lines=⚡+Thanks+for+checking+my+profile!+⚡;🚀+Let's+build+the+future+together!+🚀;💻+Always+coding%2C+always+improving!+💻" />
+
+<br>
+
+<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Ziyodaxon Jabborova</strong> | 2025 ⚡</sub>
+</div>
