@@ -142,10 +142,10 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 ### 🤝 Let's Connect
 
-<a href="https://t.me/Ziyodaxon">
+<a href="https://t.me/ziyodaxon1309">
 <img src="https://img.shields.io/badge/💬_Telegram-B35A47?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FF7F50" />
 </a>
-<a href="mailto:ziyodaxon@example.com">
+<a href="mailto:ziyodaxon1309@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-B35A47?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7F50" />
 </a>
 <a href="https://github.com/ZiyodaxonJabborova">
